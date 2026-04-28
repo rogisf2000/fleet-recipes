@@ -6,6 +6,8 @@ A community-maintained repo of AutoPkg recipes for uploading macOS installer pac
 
 Run `autopkg repo-add fleet-recipes` to add this repo.
 
+> **New to AutoPkg with Fleet?** See Fleet's official guide [Using AutoPkg with Fleet](https://fleetdm.com/guides/autopkg-with-fleet) for an end-to-end walkthrough of the workflow these recipes are built around.
+
 ### Recipe Dependencies
 
 Fleet recipes depend on parent recipes from other AutoPkg repositories. See [PARENT_RECIPE_DEPENDENCIES.md](PARENT_RECIPE_DEPENDENCIES.md) for the complete list of required repositories and setup instructions.
